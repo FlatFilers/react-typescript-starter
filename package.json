@@ -55,7 +55,7 @@
     "dotenv-webpack": "^1.7.0",
     "file-loader": "^6.0.0",
     "husky": "^4.2.3",
-    "npm-check-updates": "^4.0.4",
+    "npm-check-updates": "^16.7.4",
     "prettier": "^2.0.1",
     "prettylint": "^1.0.0",
     "react-docgen-typescript-loader": "^3.7.1",
